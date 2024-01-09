@@ -1,0 +1,187 @@
+{
+  "mod_elements": [
+    {
+      "name": "DeepslateRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/data/all_items_in_superflat_data_pack/recipes/deepslate_recipe.json"
+        ]
+      },
+      "path": "~/Blocks/Deepslate"
+    },
+    {
+      "name": "AbandonedMineshaft",
+      "type": "loottable",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abandoned_mineshaft",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/loot_tables/chests/abandoned_mineshaft.json"
+        ]
+      },
+      "path": "~/Blocks/Ores"
+    },
+    {
+      "name": "Snow",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow",
+      "metadata": {
+        "files": [
+          "src/main/data/all_items_in_superflat_data_pack/recipes/snow.json"
+        ]
+      },
+      "path": "~/Blocks/Snow"
+    },
+    {
+      "name": "SnowLayer",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow_layer",
+      "metadata": {
+        "files": [
+          "src/main/data/all_items_in_superflat_data_pack/recipes/snow_layer.json"
+        ]
+      },
+      "path": "~/Blocks/Snow"
+    },
+    {
+      "name": "PowderSnow",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "powder_snow",
+      "metadata": {
+        "files": [
+          "src/main/data/all_items_in_superflat_data_pack/recipes/powder_snow.json"
+        ]
+      },
+      "path": "~/Blocks/Snow"
+    },
+    {
+      "name": "Ice",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice",
+      "metadata": {
+        "files": [
+          "src/main/data/all_items_in_superflat_data_pack/recipes/ice.json"
+        ]
+      },
+      "path": "~/Blocks/Snow"
+    },
+    {
+      "name": "MyceliumRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mycelium_recipe",
+      "metadata": {
+        "files": [
+          "src/main/data/all_items_in_superflat_data_pack/recipes/mycelium_recipe.json"
+        ]
+      },
+      "path": "~/Blocks/Mycelium"
+    },
+    {
+      "name": "TuffRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tuff_recipe",
+      "metadata": {
+        "files": [
+          "src/main/data/all_items_in_superflat_data_pack/recipes/tuff_recipe.json"
+        ]
+      },
+      "path": "~/Blocks/Tuff"
+    },
+    {
+      "name": "Junk",
+      "type": "loottable",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "junk",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/loot_tables/gameplay/fishing/junk.json"
+        ]
+      },
+      "path": "~/Blocks/Bamboo"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Blocks",
+        "children": [
+          {
+            "name": "Deepslate",
+            "children": []
+          },
+          {
+            "name": "Ores",
+            "children": []
+          },
+          {
+            "name": "Snow",
+            "children": []
+          },
+          {
+            "name": "Mycelium",
+            "children": []
+          },
+          {
+            "name": "Tuff",
+            "children": []
+          },
+          {
+            "name": "Bamboo",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "all_items_in_superflat_data_pack",
+    "modName": "All Items In Superflat Data Pack",
+    "version": "1.0.0",
+    "author": "hoeks, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "datapack-1.20.1",
+    "modElementsPackage": "net.mcreator.allitemsinsuperflatdatapack",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300452316
+}

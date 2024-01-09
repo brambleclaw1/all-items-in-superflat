@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:ice"
+    },
+    "b": {
+      "item": "minecraft:snow_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:powder_snow",
+    "count": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.ICE"
+      },
+      {
+        "value": "Blocks.SNOW"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.SNOW"
+      },
+      {
+        "value": "Blocks.ICE"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.POWDER_SNOW"
+    },
+    "name": "powder_snow",
+    "namespace": "mod"
+  }
+}
