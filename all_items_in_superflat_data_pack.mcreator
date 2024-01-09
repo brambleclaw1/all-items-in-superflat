@@ -170,7 +170,8 @@
     "modid": "all_items_in_superflat_data_pack",
     "modName": "All Items In Superflat Data Pack",
     "version": "1.0.0",
-    "author": "hoeks, MCreator",
+    "description": "This pack adds all the unobtainable items into Superflat mode.",
+    "author": "gh5674",
     "websiteURL": "https://mcreator.net",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
@@ -180,6 +181,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "datapack-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.allitemsinsuperflatdatapack",
     "lockBaseModFiles": false
   },
