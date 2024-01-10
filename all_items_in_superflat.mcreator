@@ -26,7 +26,7 @@
           "src/main/data/minecraft/loot_tables/chests/abandoned_mineshaft.json"
         ]
       },
-      "path": "~/Blocks/Ores and Cocoa Beans"
+      "path": "~/Blocks/Ores Cocoa and Amethyst"
     },
     {
       "name": "Snow",
@@ -124,7 +124,7 @@
           "src/main/data/minecraft/loot_tables/gameplay/fishing/junk.json"
         ]
       },
-      "path": "~/Blocks/Bamboo and Turtle Eggs"
+      "path": "~/Blocks/Bamboo Turtle Eggs and Prismarine"
     },
     {
       "name": "Azalea",
@@ -405,6 +405,76 @@
         ]
       },
       "path": "~/Blocks/Coral"
+    },
+    {
+      "name": "BuddingAmethyst",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "budding_amethyst",
+      "metadata": {
+        "files": [
+          "src/main/data/all_items_in_superflat/recipes/budding_amethyst.json"
+        ]
+      },
+      "path": "~/Blocks/Ores Cocoa and Amethyst"
+    },
+    {
+      "name": "Calcite",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "calcite",
+      "metadata": {
+        "files": [
+          "src/main/data/all_items_in_superflat/recipes/calcite.json"
+        ]
+      },
+      "path": "~/Blocks/Calcite"
+    },
+    {
+      "name": "Trident",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trident",
+      "metadata": {
+        "files": [
+          "src/main/data/all_items_in_superflat/recipes/trident.json"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "Sponge",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sponge",
+      "metadata": {
+        "files": [
+          "src/main/data/all_items_in_superflat/recipes/sponge.json"
+        ]
+      },
+      "path": "~/Blocks/Sponges and Conduits"
+    },
+    {
+      "name": "Conduit",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "conduit",
+      "metadata": {
+        "files": [
+          "src/main/data/all_items_in_superflat/recipes/conduit.json"
+        ]
+      },
+      "path": "~/Blocks/Sponges and Conduits"
     }
   ],
   "variable_elements": [],
@@ -423,7 +493,7 @@
             "children": []
           },
           {
-            "name": "Ores and Cocoa Beans",
+            "name": "Ores Cocoa and Amethyst",
             "children": []
           },
           {
@@ -439,7 +509,7 @@
             "children": []
           },
           {
-            "name": "Bamboo and Turtle Eggs",
+            "name": "Bamboo Turtle Eggs and Prismarine",
             "children": []
           },
           {
@@ -465,8 +535,24 @@
           {
             "name": "Coral",
             "children": []
+          },
+          {
+            "name": "Calcite",
+            "children": []
+          },
+          {
+            "name": "Sculk",
+            "children": []
+          },
+          {
+            "name": "Sponges and Conduits",
+            "children": []
           }
         ]
+      },
+      {
+        "name": "Items",
+        "children": []
       }
     ]
   },

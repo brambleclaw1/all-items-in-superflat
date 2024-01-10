@@ -84,7 +84,7 @@
           {
             "type": "item",
             "item": {
-              "value": "Items.SWEET_BERRIES"
+              "value": "Blocks.SWEET_BERRY_BUSH"
             },
             "weight": 1,
             "minCount": 1,

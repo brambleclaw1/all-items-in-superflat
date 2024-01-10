@@ -28,7 +28,7 @@
           {
             "type": "item",
             "item": {
-              "value": "Items.BOWL"
+              "value": "Items.PRISMARINE_CRYSTALS"
             },
             "weight": 10,
             "minCount": 1,
@@ -84,7 +84,7 @@
           {
             "type": "item",
             "item": {
-              "value": "Items.ROTTEN_FLESH"
+              "value": "Items.PRISMARINE_SHARD"
             },
             "weight": 10,
             "minCount": 1,

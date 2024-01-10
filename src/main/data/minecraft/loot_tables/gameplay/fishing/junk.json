@@ -20,7 +20,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:bowl",
+          "name": "minecraft:prismarine_crystals",
           "weight": 10,
           "functions": [
             {
@@ -76,7 +76,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:rotten_flesh",
+          "name": "minecraft:prismarine_shard",
           "weight": 10,
           "functions": [
             {

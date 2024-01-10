@@ -76,7 +76,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:sweet_berries",
+          "name": "minecraft:sweet_berry_bush",
           "weight": 1,
           "functions": [
             {
