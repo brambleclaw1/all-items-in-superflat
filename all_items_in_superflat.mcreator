@@ -475,6 +475,34 @@
         ]
       },
       "path": "~/Blocks/Sponges and Conduits"
+    },
+    {
+      "name": "PillagerOutpost",
+      "type": "loottable",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pillager_outpost",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/loot_tables/chests/pillager_outpost.json"
+        ]
+      },
+      "path": "~/Blocks/Sculk"
+    },
+    {
+      "name": "BastionBridge",
+      "type": "loottable",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bastion_bridge",
+      "metadata": {
+        "files": [
+          "src/main/data/minecraft/loot_tables/chests/bastion_bridge.json"
+        ]
+      },
+      "path": "~/Blocks/Froglights"
     }
   ],
   "variable_elements": [],
@@ -546,6 +574,10 @@
           },
           {
             "name": "Sponges and Conduits",
+            "children": []
+          },
+          {
+            "name": "Froglights",
             "children": []
           }
         ]
