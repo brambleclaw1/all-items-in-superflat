@@ -9,7 +9,7 @@
       "registry_name": "deepslate_recipe",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/deepslate_recipe.json"
+          "src/main/data/all_items_in_superflat/recipes/deepslate_recipe.json"
         ]
       },
       "path": "~/Blocks/Deepslate"
@@ -37,7 +37,7 @@
       "registry_name": "snow",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/snow.json"
+          "src/main/data/all_items_in_superflat/recipes/snow.json"
         ]
       },
       "path": "~/Blocks/Snow"
@@ -51,7 +51,7 @@
       "registry_name": "snow_layer",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/snow_layer.json"
+          "src/main/data/all_items_in_superflat/recipes/snow_layer.json"
         ]
       },
       "path": "~/Blocks/Snow"
@@ -65,7 +65,7 @@
       "registry_name": "powder_snow",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/powder_snow.json"
+          "src/main/data/all_items_in_superflat/recipes/powder_snow.json"
         ]
       },
       "path": "~/Blocks/Snow"
@@ -79,7 +79,7 @@
       "registry_name": "ice",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/ice.json"
+          "src/main/data/all_items_in_superflat/recipes/ice.json"
         ]
       },
       "path": "~/Blocks/Snow"
@@ -93,7 +93,7 @@
       "registry_name": "mycelium_recipe",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/mycelium_recipe.json"
+          "src/main/data/all_items_in_superflat/recipes/mycelium_recipe.json"
         ]
       },
       "path": "~/Blocks/Mycelium"
@@ -107,7 +107,7 @@
       "registry_name": "tuff_recipe",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/tuff_recipe.json"
+          "src/main/data/all_items_in_superflat/recipes/tuff_recipe.json"
         ]
       },
       "path": "~/Blocks/Tuff"
@@ -163,7 +163,7 @@
       "registry_name": "glow_lichen_recipe",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/glow_lichen_recipe.json"
+          "src/main/data/all_items_in_superflat/recipes/glow_lichen_recipe.json"
         ]
       },
       "path": "~/Blocks/Glow Lichen"
@@ -177,7 +177,7 @@
       "registry_name": "spore_blossom_recipe",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/spore_blossom_recipe.json"
+          "src/main/data/all_items_in_superflat/recipes/spore_blossom_recipe.json"
         ]
       },
       "path": "~/Blocks/Spore Blossom"
@@ -205,7 +205,7 @@
       "registry_name": "pink_coral_fan",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/pink_coral_fan.json"
+          "src/main/data/all_items_in_superflat/recipes/pink_coral_fan.json"
         ]
       },
       "path": "~/Blocks/Coral"
@@ -219,7 +219,7 @@
       "registry_name": "pink_coral_tower",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/pink_coral_tower.json"
+          "src/main/data/all_items_in_superflat/recipes/pink_coral_tower.json"
         ]
       },
       "path": "~/Blocks/Coral"
@@ -233,7 +233,7 @@
       "registry_name": "blue_coral_fan",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/blue_coral_fan.json"
+          "src/main/data/all_items_in_superflat/recipes/blue_coral_fan.json"
         ]
       },
       "path": "~/Blocks/Coral"
@@ -247,7 +247,7 @@
       "registry_name": "blue_coral_tower",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/blue_coral_tower.json"
+          "src/main/data/all_items_in_superflat/recipes/blue_coral_tower.json"
         ]
       },
       "path": "~/Blocks/Coral"
@@ -261,7 +261,7 @@
       "registry_name": "red_coral_fan",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/red_coral_fan.json"
+          "src/main/data/all_items_in_superflat/recipes/red_coral_fan.json"
         ]
       },
       "path": "~/Blocks/Coral"
@@ -275,7 +275,7 @@
       "registry_name": "red_coral_tower",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/red_coral_tower.json"
+          "src/main/data/all_items_in_superflat/recipes/red_coral_tower.json"
         ]
       },
       "path": "~/Blocks/Coral"
@@ -289,7 +289,7 @@
       "registry_name": "yellow_coral_fan",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/yellow_coral_fan.json"
+          "src/main/data/all_items_in_superflat/recipes/yellow_coral_fan.json"
         ]
       },
       "path": "~/Blocks/Coral"
@@ -303,7 +303,7 @@
       "registry_name": "yellow_coral_tower",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/yellow_coral_tower.json"
+          "src/main/data/all_items_in_superflat/recipes/yellow_coral_tower.json"
         ]
       },
       "path": "~/Blocks/Coral"
@@ -317,7 +317,7 @@
       "registry_name": "purple_coral_fan",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/purple_coral_fan.json"
+          "src/main/data/all_items_in_superflat/recipes/purple_coral_fan.json"
         ]
       },
       "path": "~/Blocks/Coral"
@@ -331,7 +331,7 @@
       "registry_name": "purple_coral_tower",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/purple_coral_tower.json"
+          "src/main/data/all_items_in_superflat/recipes/purple_coral_tower.json"
         ]
       },
       "path": "~/Blocks/Coral"
@@ -345,7 +345,7 @@
       "registry_name": "pink_coral",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/pink_coral.json"
+          "src/main/data/all_items_in_superflat/recipes/pink_coral.json"
         ]
       },
       "path": "~/Blocks/Coral"
@@ -359,7 +359,7 @@
       "registry_name": "blue_coral",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/blue_coral.json"
+          "src/main/data/all_items_in_superflat/recipes/blue_coral.json"
         ]
       },
       "path": "~/Blocks/Coral"
@@ -373,7 +373,7 @@
       "registry_name": "red_coral",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/red_coral.json"
+          "src/main/data/all_items_in_superflat/recipes/red_coral.json"
         ]
       },
       "path": "~/Blocks/Coral"
@@ -387,7 +387,7 @@
       "registry_name": "yellow_coral",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/yellow_coral.json"
+          "src/main/data/all_items_in_superflat/recipes/yellow_coral.json"
         ]
       },
       "path": "~/Blocks/Coral"
@@ -401,7 +401,7 @@
       "registry_name": "purple_coral",
       "metadata": {
         "files": [
-          "src/main/data/all_items_in_superflat_data_pack/recipes/purple_coral.json"
+          "src/main/data/all_items_in_superflat/recipes/purple_coral.json"
         ]
       },
       "path": "~/Blocks/Coral"
@@ -471,7 +471,7 @@
     ]
   },
   "workspaceSettings": {
-    "modid": "all_items_in_superflat_data_pack",
+    "modid": "all_items_in_superflat",
     "modName": "All Items In Superflat Data Pack",
     "version": "1.0.0",
     "description": "This pack adds all the unobtainable items into Superflat mode.",
@@ -486,7 +486,7 @@
     "mcreatorDependencies": [],
     "currentGenerator": "datapack-1.20.1",
     "credits": "Created using mod maker MCreator - https://mcreator.net/about",
-    "modElementsPackage": "net.mcreator.allitemsinsuperflatdatapack",
+    "modElementsPackage": "net.mcreator.allitemsinsuperflat",
     "lockBaseModFiles": false
   },
   "mcreatorVersion": 202300452316
