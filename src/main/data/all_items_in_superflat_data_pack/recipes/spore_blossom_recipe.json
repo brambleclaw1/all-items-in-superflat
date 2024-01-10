@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:moss_block"
+    },
+    "b": {
+      "item": "minecraft:flowering_azalea_leaves"
+    },
+    "c": {
+      "item": "minecraft:glow_berries"
+    }
+  },
+  "result": {
+    "item": "minecraft:spore_blossom",
+    "count": 1
+  }
+}
